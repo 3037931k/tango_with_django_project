@@ -211,5 +211,8 @@ __marimo__/
 # Rango virtual environment
 rangoenv/
 
+# Local Tango with Django test files
+rango/tests/
+
 # macOS
 .DS_Store
